@@ -1,6 +1,6 @@
 function updateCountdown() {
     const now = new Date();
-    const targetDate = new Date("June 20, 2025");
+    const targetDate = new Date("June 19, 2026");
     
     // Calculate the difference in milliseconds
     const diff = targetDate - now;
